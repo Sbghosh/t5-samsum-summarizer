@@ -4,10 +4,6 @@ A text summarization web application built using a fine-tuned **T5-small** Trans
 
 The project provides a FastAPI-based web interface where users can enter a conversation or dialogue and generate a concise summary.
 
-## Demo
-
-![T5 SAMSum Text Summarizer](screenshot.png)
-
 ## Project Overview
 
 This project demonstrates an end-to-end NLP workflow:
