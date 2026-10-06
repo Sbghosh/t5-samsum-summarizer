@@ -4,4 +4,4 @@ jinja2
 pydantic
 transformers
 sentencepiece
-torch
+torch==2.14.1+cpu
